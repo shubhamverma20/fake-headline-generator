@@ -1,1 +1,1 @@
-# fake-healine-generator
+# fake-headline-generator
